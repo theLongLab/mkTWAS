@@ -2,7 +2,7 @@
 ## Users’ Manual of mkTWAS (Version 1.0.0)
 ### mkTWAS: Disentangling genetic feature selection and aggregation in transcriptome-wide association studies
 
-<img src="https://github.com/theLongLab/FIGS/blob/master/1.png" width="800" height="600" alt="kTWAS"/><br/>
+<img src="https://github.com/theLongLab/FIGS/blob/master/1.png" width="500" height="700" alt="mkTWAS"/><br/>
 
 ### Installation
 mkTWAS is a batteries-included JAR executable. All needed external jar packages are included in the downloadable, mkTWAS.jar. To download all necessary files, users can use the command 
